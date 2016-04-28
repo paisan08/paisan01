@@ -1,0 +1,12 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\tempera\bin\Debug\tempera.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\tempera\bin\Debug\tempera.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\tempera\bin\Debug\tempera.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\tempera\obj\x86\Debug\tempera.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\tempera\obj\x86\Debug\tempera.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\tempera\obj\x86\Debug\tempera.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\tempera\obj\x86\Debug\tempera.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\tempera\obj\x86\Debug\tempera.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\tempera\obj\x86\Debug\tempera.pdb
+C:\Users\Administrator\Desktop\โปรแกรมการแปลงหน่วยอุณหภูมิฟาเรนไฮต์และอุณหภูมิเซลเซียส\tempera\tempera\obj\x86\Debug\tempera.exe
+C:\Users\Administrator\Desktop\โปรแกรมการแปลงหน่วยอุณหภูมิฟาเรนไฮต์และอุณหภูมิเซลเซียส\tempera\tempera\obj\x86\Debug\tempera.xml
+C:\Users\Administrator\Desktop\โปรแกรมการแปลงหน่วยอุณหภูมิฟาเรนไฮต์และอุณหภูมิเซลเซียส\tempera\tempera\obj\x86\Debug\tempera.pdb
